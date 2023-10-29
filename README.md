@@ -1,20 +1,30 @@
-# Welcome to my first Repository
-## Where is some info for me
+# This is my repository
+## My name is cat
+![cat](https://znaj.ua/crops/d89d0c/1200x1200/2/0/2020/03/10/r3asovC144VkSG5HFiHtyUInavuBxIGoi8jVQNqe.jpeg)
 
-**This font  is hold**
+**javascript developes**
 
-*His fint is italic*
+*Example of my code*
+```
 
-list of items 
-* item 1
-* item 2
-* item 3
-    
+let isAlive - true;
+do{
+code();
+}
+while(isAlive);
 
-  ```javaaaaa
-  
-  let variable = "Helloo"
+function(code) {
+alert("hello world");
+}
 
-  ```
+```
 
-  [ClickMe](https://www.youtube.com/)
+This is Unorded list:
+
+* [face](https://uk-ua.facebook.com/)
+* [website](https://uk-ua.facebook.com/)
+* [telegram](https://uk-ua.facebook.com/)
+
+
+
+
